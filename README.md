@@ -7,6 +7,8 @@
 ## Screenshots
 ![Screenshot](toytoy1.png)  ![Screenshot](toytoy2.png)  ![Screenshot](toytoy3.png)
 ## Authors
-* **Tomasz Słanina** - [dox](https://github.com/tslanina)
+* code : **Tomasz Słanina** - [dox](https://github.com/tslanina)
+* gfx : **Adam Karol**
+* music : **Krzysztof Wierzynkiewicz**
 ## License
 This project is licensed under the GPL v3 License - see the [LICENSE](LICENSE) file for details
